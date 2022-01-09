@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kite+One&display=swap');
+.btnInicio{
+    background-color: #CF5488;
+}
+.btnInicio:active,.btnInicio:hover{
+    background-color: #CF9C54;
+}
+.colorLetra{
+    color:#CF5488;
+}
+#mainNav .navbar-toggler{
+    color:#CF5488;
+    border-color: #CF5488;
+}
+a{
+    color:#CF5488;
+}
+#mainNav.navbar-shrink .nav-link:hover{
+    color:#CF5488;
+}
+.contact-section .card{
+    border-bottom: none;
+}
+#mainNav.navbar-shrink .nav-link.active{
+    border-color: #CF5488;
+    color:#CF5488;
+}
+.navbar-brand{
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+}
+@media (max-width: 600px){
+    .navbar-brand{
+        font-size: 1.5em;
+    }
+}
+.sansSeriftFont{
+    font-family: 'Kite One', sans-serif;
+}
