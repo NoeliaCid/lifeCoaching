@@ -29,6 +29,10 @@ a{
     font-family: 'Great Vibes', cursive;
     font-size: 3em;
 }
+.brand2{
+    font-size: 0.5em;
+    padding-left: 3em;
+}
 @media (max-width: 600px){
     .navbar-brand{
         font-size: 1.5em;
